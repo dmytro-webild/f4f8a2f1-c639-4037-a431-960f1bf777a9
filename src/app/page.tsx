@@ -125,7 +125,7 @@ export default function LandingPage() {
             { icon: Heart, label: "Women-Owned", value: "Local Business" },
             { icon: Award, label: "Top Rated", value: "4.9★ Rating" }
           ]}
-          metricsAnimation="scale-rotate"
+          metricsAnimation="slide-up"
           useInvertedBackground={false}
         />
       </div>
